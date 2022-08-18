@@ -86,13 +86,17 @@ button{
 
 .button1{
     position: relative;
-    left: 355.5px;
+    /* left: 355.5px; */
     top: 6px;
 }
 
 .button2{
     position: relative;
-    left: 355.5px;
+    /* left: 355.5px; */
     top: 6px;
 
+}
+
+.btn{
+    float: right;
 }
