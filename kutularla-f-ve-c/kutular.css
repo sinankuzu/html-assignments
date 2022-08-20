@@ -1,0 +1,61 @@
+/* body{
+    background-color: rgb(244,151,157);
+} */
+
+.main{
+    background-color: rgb(244,151,157);
+    
+    clear: both;
+    height: 920px;
+    width: 1400px;
+    margin: 50px 600px ;
+}
+
+div{
+    margin:15px 15px;
+}
+
+.div-l1{
+    border: 1px solid RGB(60,60,60) ;
+    
+    background-color:RGB(63,63,63);
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+
+
+.div-l2{
+    border: 1px solid RGB(60,60,60) ;
+    clear: left;
+    border: 1px solid  ;
+    background-color:RGB(63,63,63);
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+
+
+
+
+
+.div-r1{
+    border: 1px solid RGB(60,60,60) ;
+    background-color:RGB(63,63,63);
+    height: 150px;
+    width: 150px;
+    float: right;
+
+}
+
+.div-r2{
+    border: 1px solid RGB(60,60,60) ;
+    clear: right;
+    border: 1px solid  ;
+    background-color:RGB(63,63,63);
+    height: 150px;
+    width: 150px;
+    float: right;
+}
