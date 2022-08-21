@@ -116,3 +116,7 @@ textarea{
     
 }
 
+.submit-button:hover{
+    background-color: rgb(80, 7, 7);
+    color:rgb(190, 82, 82);
+}
