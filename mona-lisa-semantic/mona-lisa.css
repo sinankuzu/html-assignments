@@ -19,6 +19,7 @@ nav{
     color: white;
     height: 4vh;
     line-height:60px ;
+
     
     
 }
@@ -31,6 +32,7 @@ aside{
     border-radius: 5%;
     width: 20%;
     box-sizing: border-box;
+    line-height:90px ;
     
     
     
@@ -46,6 +48,7 @@ main{
     background-size:cover;
     padding-bottom: 53px;
     color: red;
+    line-height:180px ;
     
 
 }
@@ -54,7 +57,7 @@ footer{
     clear: both;
     background-color: rgb(109, 100, 100);
     color:white;
-    
+    line-height: 80px;
     height: 6vh;
 }
 
