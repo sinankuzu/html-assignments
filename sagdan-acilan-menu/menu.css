@@ -4,7 +4,7 @@
 
 .list{
     width: 13%;
-    overflow:hidden;
+    overflow: hidden;
     transition: all 1s ease-in-out;
 }
 
@@ -15,8 +15,8 @@
 
 .list:hover .fa-chevron-right{
     visibility: hidden;
-    transition: all 0.3;
-}
+    transition: all 1;
+} 
 
 ul{
     
