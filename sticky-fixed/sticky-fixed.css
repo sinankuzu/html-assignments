@@ -1,0 +1,36 @@
+.cizgi{
+    background-color: white;
+    border: 1px solid red;
+    width: 1px;
+    height:400px;
+    
+    position: relative;
+    top: 660px;
+
+}
+
+
+.ust-nav{
+    background-color: rgb(71, 68, 68);
+    color: white;
+    font-size: 30px;
+    height: 45px;
+}
+
+.ust-nav p{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    
+}
+
+.login{
+    position: absolute;
+    right: 15px;
+    top: 35px;
+}
+
+.login a{
+    color: white;
+    text-decoration: none;
+}
