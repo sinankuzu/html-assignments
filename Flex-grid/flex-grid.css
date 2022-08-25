@@ -21,7 +21,7 @@
   justify-content: space-evenly;
   background-color: rgb(244, 122, 143);
 
-  height: 44px;
+  height: 7vh;
 }
 
 .first-section .col-3 {
@@ -30,7 +30,7 @@
   align-items: center;
   background-color: lightgreen;
   border: 1px solid black;
-  height: 40px;
+  height: 6.3vh;
   padding: 0px 10px;
   width: 24%;
 }
@@ -41,7 +41,7 @@
   align-items: center;
   background-color: skyblue;
   border: 1px solid black;
-  height: 40px;
+  height: 6.3vh;
   width: 74%;
 }
 
@@ -54,7 +54,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 160px;
+  height: 25vh;
 }
 
 .third-section .row {
@@ -65,7 +65,7 @@
 .third-section .col-4 {
   background-color: rgb(95, 235, 95);
   border: 1px solid black;
-  height: 90px;
+  height: 14vh;
 }
 .third-section .row :first-child {
   margin-top: -3px;
@@ -88,6 +88,7 @@
 .fourth-section .col-5 {
   background-color: rgb(196, 129, 3);
   height: 80px;
+  height: 12.3vh;
   border: 1px solid black;
 }
 
@@ -100,7 +101,7 @@
 .fifth-section .col-2,
 .fifth-section .col-3 {
   background-color: rgb(24, 147, 24);
-  height: 80px;
+  height: 12.3vh;
   border: 1px solid black;
 }
 
