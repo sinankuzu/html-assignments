@@ -113,3 +113,9 @@ i{
     
     border-radius: 10px;
 }
+
+
+.container .logo,.container .menu,.container .twitter{
+    flex-grow: 1;
+    flex-basis: 0;
+}
