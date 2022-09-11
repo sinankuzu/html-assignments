@@ -120,5 +120,18 @@ section.banner .yazilar h2 {
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
   font-size: 3rem;
-  color: var(--renk1);
+  color: purple;
+  text-align: center;
+}
+
+.hizmetlerimiz{
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: 100px;
+}
+
+.hizmet-paragraf{
+    text-align: center;
+    line-height: 5px;
+    
 }
