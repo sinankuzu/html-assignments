@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+.container.gridcontainer{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-areas: 
+    "header image"
+    "text image";
+    gap: 20px;
+    padding: 50px 20px;
+    
+}
+.my-header{
+    grid-area: header;
+    border: 1px solid red;
+    
+
+}
+
+.image{
+    grid-area: image;
+}
+
+.text1{
+    grid-area: text;
+}
+
+
+
+@media(max-width:767px){
+    .container.gridcontainer{
+        grid-template-columns:1fr;
+        grid-template-areas:
+        "header"
+        "image"
+        "text";
+    }
+}
