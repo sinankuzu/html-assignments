@@ -105,3 +105,10 @@ document.querySelectorAll(".video .image").forEach((element) => {
     this.closest(".video").querySelector("video").play();
   });
 });
+
+
+
+
+
+
+
